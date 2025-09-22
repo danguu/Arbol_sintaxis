@@ -58,10 +58,10 @@ pip install networkx matplotlib
 
 ## Ejecución
 
-1. Crea un archivo de entrada (por ejemplo `entrada.txt`) con una expresión, por ejemplo:
+1. Crea un archivo de entrada (por ejemplo `ejem.txt`) con una expresión, por ejemplo:
 
    ```
-   2+3*(4-5)
+   8*3+4
    ```
 
 2. Ejecuta el programa:
