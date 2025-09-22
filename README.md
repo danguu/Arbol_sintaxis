@@ -22,7 +22,7 @@ Este proyecto implementa un **analizador léxico y sintáctico** sencillo en Pyt
   * Funciones para **dibujar el árbol de sintaxis** usando `networkx` y `matplotlib`.
 
 * **`gra.txt`**
-  Archivo que contiene la gramática libre de contexto usada:
+  Archivo que contiene la gramática:
 
   ```
   E -> E opsuma T
